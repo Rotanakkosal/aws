@@ -13,7 +13,7 @@ public class TestingSpringApplication {
     }
     @GetMapping("/")
     public String Hello (){
-        return "Hello My fri magic is my crush!";
+        return "Hello From Aws pipeline with Elastic beanstalk!";
     }
 
 }
